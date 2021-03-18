@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Ylarod
 
 ## 👋 Hi there
