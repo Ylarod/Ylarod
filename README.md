@@ -18,7 +18,7 @@
 ## 📫 Contact me
 
  - Telegram: [@Ylarod](https://t.me/Ylarod)
- - e-mail  : [Mail to me@ylarod.cn](mailto:me@ylarod.cn)
+ - e-mail  : [me@ylarod.cn](mailto:me@ylarod.cn)
 
 
 <!--
