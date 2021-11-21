@@ -6,8 +6,8 @@
 ## 🔭 What is doing
 
  * Learning Android development.
+ * Learning iOS development.
  * Learning C++ development.
- * Prepare for subject competitions.
 
 
 ## 🤔 What is scheduled
