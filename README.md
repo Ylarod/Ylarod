@@ -2,22 +2,10 @@
 
 ## 👋 Hi there
 [![Ylarod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ylarod&count_private=true&show_icons=true)](https://github.com/Ylarod)
-
-## 🔭 What is doing
-
- * Learning Android development.
- * Learning iOS development.
- * Learning C++ development.
-
-
-## 🤔 What is scheduled
-
- * Finish all the books that I bought.
- * Make money.
+[![Ylarod's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ylarod&show_icons=true)](https://github.com/Ylarod)
 
 ## 📫 Contact me
 
- - Telegram: [@Ylarod](https://t.me/Ylarod)
  - e-mail  : [me@ylarod.cn](mailto:me@ylarod.cn)
 
 
