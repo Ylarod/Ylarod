@@ -1,7 +1,7 @@
 # Ylarod
 
 ## 👋 Hi there
-[![Ylarod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ylarod&count_private=true&show_icons=true)](https://github.com/Ylarod)
+[![Ylarod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ylarod&count_private=true&show_icons=true&line_height=40)](https://github.com/Ylarod)
 [![Ylarod's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ylarod&show_icons=true)](https://github.com/Ylarod)
 
 ## 📫 Contact me
