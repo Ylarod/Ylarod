@@ -6,7 +6,7 @@
 
 ## 🔭 What is doing
 
- * Prepare for postgraduate entrance examination. @JNU
+ * Prepare for job
 
 
 ## 📫 Contact me
