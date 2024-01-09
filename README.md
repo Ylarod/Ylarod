@@ -6,7 +6,8 @@
 
 ## 🔭 What is doing
 
- * Prepare for job
+- `Jan 2024 - ` Security Engineer @ Alibaba
+- `June 2023 - Jan 2024` Game Security Engineer @ FairGuard
 
 
 ## 📫 Contact me
